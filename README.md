@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Bishal</h1>
 <h4 color="#4F4A4A" align="center">I'm from India, and I do Web Development. I really enjoy learning new logics, algorithms in DSA and frameworks like React.js, Node.js as well as work in backend Technology. I also enjoy wireframing, UI, UX, and design in general.</h4>
 <h1></h1>
-<img align="right" height="400" width="500" src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" alt="bishalpatgiri">
+<img align="right" height="300" width="400" src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" alt="bishalpatgiri">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalpatgiri&label=Profile%20views&color=0e75b6&style=flat" alt="bishalpatgiri" /> </p>
 
 
