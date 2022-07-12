@@ -24,6 +24,6 @@
 <h1></h1>
 <p>
 <img align="left" height="180" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalpatgiri&show_icons=true&locale=en&layout=compact" alt="bishalpatgiri" />
-&nbsp;<img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=bishalpatgiri&show_icons=true&locale=en" alt="bishalpatgiri" />
+<img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=bishalpatgiri&show_icons=true&locale=en" alt="bishalpatgiri" />
   </p>
 
