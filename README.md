@@ -1,4 +1,5 @@
-
+<img align="right" height="400" width="500" src="https://i0.wp.com/dxminds.com/wp-content/uploads/2021/07/How-Much-Does-it-Cost-to-hire-Mern-stack-developer.jpg" alt="bishalpatgiri">
+<h1></h1>
 <h1 align="center">Hello 👋, I'm Bishal</h1>
 <h4 color="#4F4A4A" align="center">I'm from India, and I do web Development. I really enjoy learning new logics, algorithms in DSA and frameworks like React.js, Node.js as well as work in backend Technology. I also enjoy wireframing, UI, UX, and design in general.</h4>
 <h1></h1>
