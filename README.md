@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Sony Play Station Clone**
 
-- 🌱 I’m currently learning **React.js and Advance JavaScript**
+- 🌱 I’m currently learning **React.js and Node.js, Express.js**
 
 - 📫 How to reach me **bishalpatgiri67@gmail.com**
 
