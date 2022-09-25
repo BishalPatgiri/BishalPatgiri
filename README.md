@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Bishal</h1>
 <h3 align="center">Proficient In </h3>
 <h2 align="center">| ReactJS | Redux | Rest API | NodeJS | ExpressJs | MongoDB |</h2>
-<h4 color="#4F4A4A" align="center">I'm from India, and I do Web Development. I really enjoy learning new logics, algorithms in DSA and frameworks like React.js, Node.js as well as work in backend Technology. I also enjoy UI, UX, and design in general. I like to use advancen CSS in my projects since it gives a great look to it.</h4>
+<h3 color="#4F4A4A" align="center">I'm from India, and I do Web Development. I really enjoy learning new logics, algorithms in DSA and frameworks like React.js, Node.js as well as work in backend Technology. I also enjoy UI, UX, and design in general. I like to use advancen CSS in my projects since it gives a great look to it.</h3>
 <h1></h1>
 <img align="right" height="300" width="400" src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" alt="bishalpatgiri">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalpatgiri&label=Profile%20views&color=0e75b6&style=flat" alt="bishalpatgiri" /> </p>
