@@ -1,7 +1,7 @@
 <img  align="center" height="330" width="1000" src="https://i0.wp.com/dxminds.com/wp-content/uploads/2021/07/How-Much-Does-it-Cost-to-hire-Mern-stack-developer.jpg" alt="bishalpatgiri">
 <h1></h1>
 <h1 align="center">Hello 👋, I'm Bishal</h1>
-<h3 align="center">Proficient In </h3>
+<h3 align="center">Proficiency In </h3>
 <h3 align="center">| ReactJS | Redux | Rest API | NodeJS | ExpressJs | MongoDB |</h3>
 <h3 color="#4F4A4A" align="center">I'm from India, and I do Web Development. I really enjoy learning new logics, algorithms in DSA and frameworks like React.js, Node.js as well as work in backend Technology. I also enjoy UI, UX, and design in general. I like to use advancen CSS in my projects since it gives a great look to it.</h3>
 <h1></h1>
