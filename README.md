@@ -1,4 +1,4 @@
-<img  align="center" height="330" width="1000" src="https://i0.wp.com/dxminds.com/wp-content/uploads/2021/07/How-Much-Does-it-Cost-to-hire-Mern-stack-developer.jpg" alt="bishalpatgiri">
+<img  align="center" height="330" width="1000" src="https://i0.wp.com/dxminds.com/wp-content/uploads/2021/07/How-Much-Does-it-Cost-to-hire-Mern-stack-developer.jpg" alt="bishalpatgiriCover">
 <h1></h1>
 <h1 align="center">Hello 👋, I'm Bishal</h1>
 <h3 align="center">Proficiency In </h3>
