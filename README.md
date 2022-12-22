@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalpatgiri&label=Profile%20views&color=0e75b6&style=flat" alt="bishalpatgiri" /> </p>
 
 
-- 🔭 I’m currently working on **Toggl Track Website**
-
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
+<!-- - 🔭 I’m currently working on **Toggl Track Website**
+ -->
+- 🌱 I’m currently learning **Next.js, aws, prisma ORM**
 
 - 📫 How to reach me **bishalpatgiri67@gmail.com**
 
