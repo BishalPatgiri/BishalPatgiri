@@ -1,9 +1,9 @@
 <img  align="center" height="330" width="1000" src="https://www.controlf5.in/wp-content/uploads/2022/08/How-Much-Does-it-Cost-to-hire-Mern-stack-developer-768x384.jpg" alt="bishalpatgiriCover">
 <h1></h1>
 <h1 align="center">Hello 👋, I'm Bishal</h1>
-<h2 align="center"><em>Experience In</em></h2>
+<h2 align="center"><em>Professional Experience In</em></h2>
 
-<h3 align="center">HTML | CSS | Javascript | ReactJS | Redux | Rest API | NodeJS | ExpressJs | MongoDB |</h3>
+<h3 align="center">Next.JS | ReactJS | HTML | CSS | Javascript | Redux | Rest API | NodeJS | ExpressJs | MongoDB | Postman</h3>
 <h3 color="#4F4A4A" align="center">I'm from India, and I do Web Development. I really enjoy learning new logics, algorithms in DSA and frameworks like React.js, Node.js as well as work in backend Technology. I also enjoy UI, UX, and design in general. I like to use advanced CSS in my projects since it gives a great look to it.</h3>
 <h1></h1>
 <img align="right" height="300" width="400" src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif" alt="bishalpatgiri">
