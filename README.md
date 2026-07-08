@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bishal Patgiri 👋</h1>
 <h3 align="center">Senior Software Engineer · Full-Stack & AI-Native</h3>
 <p align="center">
-  I build production web products end-to-end — <b>React / Next.js</b> · <b>Node.js / FastAPI</b> · <b>PostgreSQL</b> · <b>AWS</b> — with <b>LLMs and AI agents</b> woven into the stack.
+  I build production web products end-to-end — <b>React / Next.js</b> · <b>Node.js / FastAPI</b> · <b>MongoDB</b> · <b>PostgreSQL</b> · <b>AWS</b> — with <b>LLMs and AI agents</b> woven into the stack.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - 🚀 **Senior Software Engineer** with **3.5+ years** shipping full-stack products in a fast-moving **legal-tech / online-dispute-resolution startup**.
 - 🧩 I build **end-to-end**: **React / Next.js + TypeScript** front ends on **Node.js / Express** and **Python / FastAPI** services, over **PostgreSQL, MongoDB & Redis**, deployed on **AWS** with **Docker & CI/CD**.
 - 🤖 **AI-native engineer** — I design **RAG** systems and **agentic workflows**, and build with **Claude Code** daily to ship faster without giving up engineering judgment.
-- 🏛️ Domain experience: document intelligence, transcription & translation, case search, real-time collaboration, secure multi-tenant systems.
+- 🏛️ Domain experience: document intelligence, transcription & translation, case search, real-time collaboration, secure multi-tenant systems, legal case management system.
 - 🌱 Currently exploring: **Model Context Protocol (MCP)**, vector databases & agentic AI.
 - 📫 Reach me at **bishalpatgiri67@gmail.com**
 
